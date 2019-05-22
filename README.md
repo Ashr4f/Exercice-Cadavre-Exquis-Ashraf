@@ -15,3 +15,5 @@ that is enough, I'm terrible at writing stories 😭
 alert("Hello World");
 ```
 That's what I really can do 🤓
+
+Sans faute
